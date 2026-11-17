@@ -1,0 +1,143 @@
+{
+  "titulo": "Catálogo",
+  "bajada": "Elegí tu vela y pedila directo por WhatsApp.",
+  "boton": "Comprar por WhatsApp",
+  "productos": [
+    {
+      "nombre": "Sandía y Pepino",
+      "descripcion": "Vela artesanal de soja personalizada en vaso de vidrio elegante, con una delicada flor decorativa verde y aroma fresco, frutal y delicado.",
+      "detalle": "( 200 g · 40 hs ) ",
+      "precio": "$7.000",
+      "color_banda": "tan",
+      "imagen": "/img/01.jpg"
+    },
+    {
+      "nombre": "Coco y Vainilla ",
+      "descripcion": "Velas aromáticas de coco y vainilla, con delicados detalles de rosas, ideales para regalar, agradecer y crear momentos especiales.",
+      "detalle": "( 200 g · 40 hs )",
+      "precio": "$7.000",
+      "color_banda": "mauve",
+      "imagen": "/img/02.jpg"
+    },
+    {
+      "nombre": "Rostros de Calma",
+      "descripcion": "Nuevas velitas artesanales en vasitos de vidrio con relieve de rostros. Perfectas para crear un rincón cálido y acogedor en tu hogar, combinando diseño y armonía en cada espacio.",
+      "detalle": "( 220 g · 45 hs )",
+      "precio": "$9.000",
+      "color_banda": "sage",
+      "imagen": "/img/03.jpg"
+    },
+    {
+      "nombre": "Souvenirs Escultura",
+      "descripcion": "Volitas artesanales en frascos de vidrio decorados, con detalles de perlas y dijes (como el ojo turco). Ideales para comuniones, bautismos, baby showers, cumpleaños y eventos especiales.",
+      "detalle": "( 220 g · 45 hs )",
+      "precio": "$6000",
+      "color_banda": "tan",
+      "imagen": "/img/04.jpg"
+    },
+    {
+      "nombre": "Ganesha y Flor de Loto",
+      "descripcion": "Velas artesanales que transmiten paz, amor y buenas energías. Incluye la figura de Ganesha, símbolo de prosperidad y protección, y una flor de loto, símbolo de pureza y renovación.",
+      "detalle": "( 180 g · 35 hs )",
+      "precio": "$7500",
+      "color_banda": "mauve",
+      "imagen": "/img/05.jpg"
+    },
+    {
+      "nombre": "Latas Decorativas Mármol",
+      "descripcion": "Latas de velas decorativas con acabado marmoleado. Elegí tu color favorito y personalizá el aroma que más te guste para llenar tus espacios de magia.",
+      "detalle": "( 180 g · 35 hs )",
+      "precio": "$5000",
+      "color_banda": "sage",
+      "imagen": "/img/06.jpg"
+    },
+    {
+      "nombre": "Velas en Flor de Souvenir",
+      "descripcion": "Delicadas velas artesanales en forma de flores en frascos de vidrio. Ideales para cumpleaños, 15 años, bautismos, casamientos, baby showers y eventos especiales.",
+      "detalle": "( 200 g · 40 hs )",
+      "precio": "$8.500",
+      "color_banda": "tan",
+      "imagen": "/img/07.jpg"
+    },
+    {
+      "nombre": "Vela Hamsa Protectora",
+      "descripcion": "Vela artesanal con la forma de la mano de Fátima (Hamsa), detalle simbólico de protección, armonía y buenas energías para tus espacios.",
+      "detalle": "( 200 g · 40 hs )",
+      "precio": "$5.000",
+      "color_banda": "mauve",
+      "imagen": "/img/08.jpg"
+    },
+    {
+      "nombre": "Osito tierno personalizado con vaso y tarjeta personalizada",
+      "descripcion": "Vela artesanal decorativa en vaso de vidrio con la figura de un tierno osito con lazo rosado y etiqueta personalizada con nombre, ideal para recuerdos y detalles especiales.",
+      "detalle": "( 250 g · 50 hs )",
+      "precio": "$7000",
+      "color_banda": "sage",
+      "imagen": "/img/09.jpg"
+    },
+    {
+      "nombre": "Osito y Rosas en vaso con tarjeta personalizadas soja y parafina",
+      "descripcion": "Vela artesanal decorativa en vaso de vidrio con un osito, detalles de flores y una tarjeta colgante con la inscripción \"para ti mi amor\", ideal para regalar en ocasiones especiales.",
+      "detalle": "( 3 x 80 g )",
+      "precio": "$7.000",
+      "color_banda": "tan",
+      "imagen": "/img/10.jpg"
+    },
+    {
+      "color_banda": "sage",
+      "imagen": "/img/11.jpg",
+      "nombre": "Osito tierno con lazo celeste con vaso y tarjeta personalizada",
+      "descripcion": "Vela artesanal decorativa en vaso de vidrio con la figura de un tierno osito coronado con un delicado moño celeste y base aromatizada, ideal para regalos y recuerdos tiernos.",
+      "precio": "$7000",
+      "detalle": "200 g · 40 hs"
+    },
+    {
+      "color_banda": "sage",
+      "nombre": "Osito con gorrito en vaso con tarjeta personalizada",
+      "descripcion": "Dulzura, serenidad y tranquilidad. Velas artesanales con aromas relajantes y notas suaves, presentado con la figura de un osito con gorrito y la etiqueta personalizada \"CIRO\".",
+      "detalle": "200 g · 40 hs ",
+      "precio": "$7000",
+      "imagen": "/img/12.jpg"
+    },
+    {
+      "color_banda": "sage",
+      "nombre": "virgencitas",
+      "descripcion": "hermosas velas de soja personaliza color y aroma.",
+      "detalle": "200g",
+      "precio": "$4000",
+      "imagen": "/img/whatsapp-image-2026-11-09-at-18.29.47.jpeg"
+    },
+    {
+      "color_banda": "sage",
+      "nombre": "Rosas personaliza su color y aroma",
+      "descripcion": "Rosas velas de soja",
+      "detalle": "200",
+      "precio": "$3500",
+      "imagen": "/img/whatsapp-image-2026-11-13-at-12.15.41.jpeg"
+    },
+    {
+      "color_banda": "sage",
+      "nombre": "coronitas ideal para festejar tus 15 años",
+      "descripcion": "coronitas de vidrio con vela de soja y parafina decorada con estrellas plateadas",
+      "detalle": "100",
+      "precio": "$5500",
+      "imagen": "/img/whatsapp-image-2026-11-09-at-07.16.04.jpeg"
+    },
+    {
+      "color_banda": "sage",
+      "nombre": "souvenir de vidrio decorado con niña rezando",
+      "descripcion": "caramelera vela de soja decorado con perlas y dije plateado",
+      "detalle": "200",
+      "precio": "$6000",
+      "imagen": "/img/whatsapp-image-2026-11-13-at-18.39.16.jpeg"
+    },
+    {
+      "color_banda": "sage",
+      "nombre": "ramito en cono de arpillera",
+      "descripcion": "hermoso ramo rosa en vela de soja con cono de arpillera. Personaliza color y aroma. ",
+      "detalle": "200",
+      "precio": "$4.500",
+      "imagen": "/img/whatsapp-image-2026-11-13-at-19.09.15.jpeg"
+    }
+  ]
+}

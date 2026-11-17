@@ -1,0 +1,20 @@
+{
+  "titulo": "Conoce mas sobre nuestras velas",
+  "bajada": "Descubrí nuestros procesos, tips de cuidado y novedades en video.",
+  "items": [
+    {
+      "titulo": "Souvenirs de Ositos y Conejitos PersonalizadosProceso de Elaboración",
+      "texto": "Velas artesanales en frascos de vidrio.",
+      "imagen": "/img/reel01.png",
+      "imagen_alt": "Set de delicadas velas artesanales en frascos de vidrio decorados con figuras de ositos y conejitos, ideales para bautismos, cumpleaños y eventos especiales, con etiquetas personalizadas.",
+      "url": "https://www.instagram.com/reel/DcOjhoNxfYF/"
+    },
+    {
+      "titulo": "Guía del Calibre de la Mecha",
+      "texto": "Guía del Calibre de la Mecha.",
+      "imagen": "/img/reel02.png",
+      "imagen_alt": "Publicación educativa/informativa sobre la elección y ajuste del grosor de la mecha de algodón (hilo simple, doble y trenzado) según el tipo de vela artesanal.",
+      "url": "https://www.instagram.com/reel/DajCs1SRpxK/"
+    }
+  ]
+}
